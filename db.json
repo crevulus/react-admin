@@ -2,7 +2,7 @@
   "users": [
     {
       "id": "1",
-      "name": "Klaus Huntelaar",
+      "name": "Klaas Jan Huntelaar",
       "username": "Kanaar",
       "email": "applboss@gmail.com",
       "phone": 37802223,
@@ -39,6 +39,14 @@
       "email": "Rongundy@gmail.com",
       "phone": 23455,
       "company": "Colour Burgundy"
+    },
+    {
+      "name": "Test",
+      "username": "testing",
+      "email": "test@test.com",
+      "phone": "123456",
+      "company": "company",
+      "id": "5YD2n5g"
     }
   ]
 }
